@@ -1,5 +1,7 @@
-package flower.store;
+package flower.store.Flowers;
 
+import flower.store.FlowerColor;
+import flower.store.FlowerType;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -19,3 +21,4 @@ public class Flower {
         return color.toString();
     }
 }
+
