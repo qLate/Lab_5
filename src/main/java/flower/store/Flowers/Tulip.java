@@ -1,5 +1,9 @@
 package flower.store.Flowers;
 
-public class Tulip extends Flower{
+import flower.store.FlowerColor;
 
+public class Tulip extends Flower{
+    public Tulip(){
+        color = FlowerColor.PINK;
+    }
 }

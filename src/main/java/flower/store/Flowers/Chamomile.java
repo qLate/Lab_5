@@ -1,6 +1,10 @@
 package flower.store.Flowers;
 
-public class Chamomile extends Flower{
+import flower.store.FlowerColor;
 
+public class Chamomile extends Flower{
+    public Chamomile(){
+        color = FlowerColor.WHITE;
+    }
 }
 
