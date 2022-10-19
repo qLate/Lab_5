@@ -15,4 +15,3 @@ public class FlowerStore {
         return flowerBuckets.stream().filter(bucket -> bucket.ContainsFlowerType(type)).collect(Collectors.toList());
     }
 }
-
