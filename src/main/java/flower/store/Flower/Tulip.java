@@ -2,7 +2,9 @@
  * Tulip
  */
 
-package flower.store;
+package flower.store.Flower;
+
+import flower.store.FlowerColor;
 
 public class Tulip extends Flower {
     /**
