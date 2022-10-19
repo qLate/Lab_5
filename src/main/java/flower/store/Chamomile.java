@@ -2,9 +2,7 @@
  * Chamomile
  */
 
-package flower.store.Flowers;
-
-import flower.store.FlowerColor;
+package flower.store;
 
 public class Chamomile extends Flower {
     /**

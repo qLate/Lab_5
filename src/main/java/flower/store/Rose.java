@@ -2,9 +2,7 @@
  * Rose
  */
 
-package flower.store.Flowers;
-
-import flower.store.FlowerColor;
+package flower.store;
 
 public class Rose extends Flower {
     /**

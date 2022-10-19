@@ -2,7 +2,7 @@
  * Flowers
  */
 
-package flower.store.Flowers;
+package flower.store;
 
 import flower.store.FlowerColor;
 import flower.store.FlowerType;
